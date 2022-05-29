@@ -34,7 +34,7 @@ Eğer botu kurma hakkında fikriniz yoksa burayı okuyunuz: [Kurulum Rehberi](ht
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Quiec/AsenaUserBot)
 ### Zor Yöntem
 ```python
-git clone https://github.com/Quiec/AsenaUserBot.git
+git clone https://github.com/Linix2op/AsenaUserBot.git
 cd AsenaUserBot
 pip install -r requirements.txt
 # Config.env oluşturun ve düzenleyin. #
